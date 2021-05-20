@@ -1,0 +1,20 @@
+﻿  main.cpp
+  Notice: Using GenICam with untested compiler, version 1926 detected!
+  Following versions were tested: 1400, 1500, 1600, 1700, 1800, 1900-1916.
+D:\source\repos\C++\GigE\GigE_Vision\GigE_Vision\GigE_Vision\main.cpp(106,44): warning C4244: аргумент: преобразование "T" в "size_t", возможна потеря данных
+          with
+          [
+              T=uint64_t
+          ]
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall GenApi_3_3::CNodeMapFactory::GetSupportedSchemaVersions(class GenICam_3_3::gcstring_vector &)const " (__imp_?GetSupportedSchemaVersions@CNodeMapFactory@GenApi_3_3@@QBEXAAVgcstring_vector@GenICam_3_3@@@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall GenApi_3_3::CNodeMapFactory::~CNodeMapFactory(void)" (__imp_??1CNodeMapFactory@GenApi_3_3@@UAE@XZ).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenApi_3_3::CNodeMapFactory::CNodeMapFactory(void)" (__imp_??0CNodeMapFactory@GenApi_3_3@@QAE@XZ).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenICam_3_3::AccessException::AccessException(char const *,char const *,int,char const *)" (__imp_??0AccessException@GenICam_3_3@@QAE@PBD0H0@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: class GenICam_3_3::gcstring & __thiscall GenICam_3_3::gcstring::operator=(class GenICam_3_3::gcstring const &)" (__imp_??4gcstring@GenICam_3_3@@QAEAAV01@ABV01@@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall GenICam_3_3::gcstring::~gcstring(void)" (__imp_??1gcstring@GenICam_3_3@@UAE@XZ).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenICam_3_3::gcstring::gcstring(char const *)" (__imp_??0gcstring@GenICam_3_3@@QAE@PBD@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenICam_3_3::gcstring::gcstring(class GenICam_3_3::gcstring const &)" (__imp_??0gcstring@GenICam_3_3@@QAE@ABV01@@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenICam_3_3::GenericException::GenericException(class GenICam_3_3::GenericException const &)" (__imp_??0GenericException@GenICam_3_3@@QAE@ABV01@@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall GenICam_3_3::AccessException::AccessException(class GenICam_3_3::AccessException const &)" (__imp_??0AccessException@GenICam_3_3@@QAE@ABV01@@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall GenICam_3_3::AccessException::~AccessException(void)" (__imp_??1AccessException@GenICam_3_3@@UAE@XZ).
+D:\source\repos\C++\GigE\GigE_Vision\GigE_Vision\Release\GigE_Vision.exe : fatal error LNK1120: неразрешенных внешних элементов: 11

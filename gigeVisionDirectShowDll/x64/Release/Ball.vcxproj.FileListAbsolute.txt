@@ -1,0 +1,4 @@
+D:\source\repos\C++\directshow\filters\gige_vision\x64\Release\Ball.dll
+D:\source\repos\C++\directshow\filters\gige_vision_\x64\Release\Ball.dll
+D:\source\repos\C++\directshow\filters\gige_vision_1\x64\Release\Ball.dll
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\x64\Release\Ball.dll

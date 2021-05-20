@@ -1,0 +1,16 @@
+﻿  main.cpp
+  Notice: Using GenICam with untested compiler, version 1926 detected!
+  Following versions were tested: 1400, 1500, 1600, 1700, 1800, 1900-1916.
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\Camera.hpp(40,28): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\Camera.hpp(49,29): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\Camera.hpp(59,29): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\Camera.hpp(68,28): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\GigeManager.hpp(119,1): warning C4804: >: небезопасное использование типа "bool" в операции
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\main.cpp(16,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\GigE_Vision\Port.hpp(59): warning C4715: Port::GetAccessMode: значение возвращается не при всех путях выполнения
+  303 of 309 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  GigE_Vision.vcxproj -> D:\source\repos\C++\GigeVisionDll\gigeVisionConsole\GigE_Vision\x64\Release\GigE_Vision.exe

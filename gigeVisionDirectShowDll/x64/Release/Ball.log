@@ -1,0 +1,15 @@
+﻿  ball.cpp
+  fball.cpp
+  Notice: Using GenICam with untested compiler, version 1926 detected!
+  Following versions were tested: 1400, 1500, 1600, 1700, 1800, 1900-1916.
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\Camera.hpp(40,28): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\Camera.hpp(49,29): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\Camera.hpp(59,29): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\Camera.hpp(68,28): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\GigeManager.hpp(119,1): warning C4804: >: небезопасное использование типа "bool" в операции
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\fball.cpp(176,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\Port.hpp(59): warning C4715: Port::GetAccessMode: значение возвращается не при всех путях выполнения
+     Создается библиотека x64\Release\Ball.lib и объект x64\Release\Ball.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Ball.vcxproj -> D:\source\repos\C++\GigeVisionDll\gigeVisionDirectShowDll\x64\Release\Ball.dll

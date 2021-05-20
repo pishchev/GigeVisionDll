@@ -1,0 +1,37 @@
+﻿  amextra.cpp
+  amfilter.cpp
+  amvideo.cpp
+  arithutil.cpp
+  combase.cpp
+  cprop.cpp
+  ctlutil.cpp
+  ddmm.cpp
+  dllentry.cpp
+D:\source\repos\C++\directshow\baseclasses\dllentry.cpp(314,21): warning C4996: 'GetVersionExW': объявлен deprecate
+  dllsetup.cpp
+  mtype.cpp
+  outputq.cpp
+  perflog.cpp
+  pstream.cpp
+  pullpin.cpp
+  refclock.cpp
+  renbase.cpp
+  schedule.cpp
+  seekpt.cpp
+  source.cpp
+  Создание кода...
+  Компиляция...
+  strmctl.cpp
+  sysclock.cpp
+  transfrm.cpp
+  transip.cpp
+  videoctl.cpp
+  vtrans.cpp
+  winctrl.cpp
+  winutil.cpp
+  wxdebug.cpp
+  wxlist.cpp
+  wxutil.cpp
+D:\source\repos\C++\directshow\baseclasses\wxutil.cpp(755,9): warning C4996: 'GetVersionExW': объявлен deprecate
+  Создание кода...
+  baseclasses.vcxproj -> D:\source\repos\C++\directshow\baseclasses\x64\Release\strmbase.lib

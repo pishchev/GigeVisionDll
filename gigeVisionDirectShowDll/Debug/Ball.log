@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  fball.cpp
+D:\source\repos\C++\directshow\gige_vision_\fball.cpp(11,10): fatal error C1083: Не удается открыть файл включение: streams.h: No such file or directory,
+  ball.cpp
+D:\source\repos\C++\directshow\gige_vision_\ball.cpp(60,10): fatal error C1083: Не удается открыть файл включение: streams.h: No such file or directory,
+  Создание кода...
